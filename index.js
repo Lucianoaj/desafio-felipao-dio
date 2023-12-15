@@ -1,3 +1,5 @@
 console.log("primeiro desafio dio.me")
 console.log("teste 2")
 console.log("para atualizar o code no githun, basta rodar o code, depois comando git add . seguido de git commit -m recado seguido de git push -u origin main agora f5 no github projetos")
+console.log("uma utilidade legal é que o github se torna sua nuvem de projetos podendo abrir em qualquer maquina, basta clonar no vscode")
+console.log("em terminal de um git clone e o link do git")
