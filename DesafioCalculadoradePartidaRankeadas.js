@@ -10,14 +10,10 @@
 // SE vitórias for entre 91 e 100 = LENDÁRIO
 // SE vitórias for maior ou igual a 101 = IMORTAL
 // # saída: Ao final deve se exibir uma mensagem: "O Herói tem de saldo de **(saldoVitórias)** está no nível de **(nível)**
-//  if(balance < 10){
-   // console.log("O Herói tem saldo de " + balance + " está no Nível de " + nivel)
-//}
-
 
 let balance = difference(39, 17)
 function difference(winner, loser){
-    let differenceBalance = winner - loser 
+   let differenceBalance = winner - loser 
    return differenceBalance
 }
 
